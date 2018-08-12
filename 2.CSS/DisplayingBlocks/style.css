@@ -1,0 +1,42 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 900px;
+    height: 1000px;
+    background: #d4d1ae;
+    
+}
+
+#header{
+    width: 597px;
+}
+#header img{
+
+    width: 150px;
+    display: inline-block;
+}
+#header h1{
+
+    display: inline-block;
+    
+}
+
+#row1{
+    margin-left: 10px;
+
+}
+#row1 img {
+width: 168px;
+border: 2px solid black;
+
+
+    
+}
+
+.pink{
+    background: #E37174;
+    height: 170px;
+}

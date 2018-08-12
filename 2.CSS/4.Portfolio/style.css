@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 1px dotted red;
+
+}
+
+body {
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+}
+
+#header{
+    padding: 10px;
+    background: #F8F8F8;
+}
+#header h1{
+display: inline-block;
+width: 300px;
+margin-right: 300px;
+}
+
+#header p{
+display: inline-block;
+width: 266px;
+}
+
+#main {
+    padding: 20px;
+    background: #27161B;
+}
+#main img {
+    width: 445px;
+    margin-right: 40px;
+}
+
+
+#aboutsection{
+    width: 437px;
+    display: inline-block;
+    vertical-align: top;
+    background: white;
+    
+}
+
+
+#aboutsection h1{
+    background: purple;
+    color: white;
+}
+
+#aboutsection p{
+    color: black;
+}

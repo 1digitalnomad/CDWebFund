@@ -1,0 +1,165 @@
+
+
+body{
+margin: 0px;
+
+}
+
+#bluebigbox{
+
+    background: #245076;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+}
+
+#wrapper p {
+    color: white;
+    text-align: right;
+    margin-left: 700px;
+    display: inline-block;
+}
+#wrapper p a {
+    color: yellow;
+}
+#wrapper textsize {
+    
+}
+
+#header img {
+    width: 300px;
+}
+
+#searchbox{
+    padding: 15px 40px 15px 30px;
+    margin-left: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background: #444444;
+    border-radius: 10px;
+    box-shadow: 3px 4px black;
+
+
+}
+
+#searchbox input{
+    height: 25px;
+}
+
+#searchbox button{
+    background: #245076;
+    color: white;
+    width: 30px;
+    height: 25px;
+    border-radius: 5px;
+
+}
+
+#navigation{
+    text-align: center;
+    
+}
+#navigation ul{
+    display: inline-block;
+    background: #427CAD;
+    padding: 10px 50px;
+    box-shadow: 3px 4px black;
+    border-radius: 5px;
+}
+
+#navigation ul li {
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    margin-right: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#maincontent{
+    margin-top: 20px;
+}
+
+#maincontent .ph{
+
+    display: inline-block;
+    width: 400px;
+}
+
+#maincontent p{
+    text-align: center;
+}
+
+#maincontent a{
+    color: white;
+}
+
+#maincontent .leftnav{
+
+    color: white;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+#maincontent li{
+    list-style-type: none;
+
+}
+
+#maincontent p{
+    margin: 0px;
+    color: white;
+    width: 544px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#maincontent h3{
+    color: yellow;
+    text-align: center;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+#maincontent h4{
+    color: white;
+    text-align: center;
+    margin-left: 80px;
+}
+
+
+
+#Belowbluebox{
+    text-align: center;
+    margin: 0px auto;
+}
+
+.gettingstarted{
+    width: 400px;
+    display: inline-block;
+    text-align: center;
+    border-top: 3px solid #7EA6D1;
+    margin: 10px 10px 0px 0px;
+    vertical-align: top;
+}
+
+.gettingstarted li{
+    color: #7ea6d1;
+}
+
+#footer{
+    background: linear-gradient(#2F5073, rgb(79, 131, 187));
+    padding: 60px 0px 30px 0px;
+    text-align: center;
+    color: #7ea6d1;
+}
+
+#footer a{
+    color: #7ea6d1;
+    margin-right: 20px;
+}
