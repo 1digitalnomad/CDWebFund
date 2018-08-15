@@ -1,9 +1,10 @@
 // this is part 2 of the assignment. Copy/paste the starter code from the platform like seen below 
 //and edit the code to make it work.
 function printUpTo(x){
-  if(x<0)
+  if(x<0){
+    console.log("negative number");
     return false;
-   
+  }
    for(i=1; i<=x; i++){
     console.log(i)
   }
