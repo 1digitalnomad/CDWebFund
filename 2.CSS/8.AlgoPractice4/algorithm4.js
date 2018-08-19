@@ -53,15 +53,15 @@
 
 // Given array, and indices start and end, remove vals in that index range, working in-place (hence shortening the array).  For example, removeVals([20,30,40,50,60,70],2,4) should return [20,30,70].
 
-function removeVals(arr){
-  for()
+// function removeVals(arr){
+//   for()
 
-  arr.pop()
-
-
-}
-return
+//   arr.pop()
 
 
-removeVals([20,30,40,50,60,70],2,4);
-console.log()
+// }
+// return
+
+
+// removeVals([20,30,40,50,60,70],2,4);
+// console.log()
