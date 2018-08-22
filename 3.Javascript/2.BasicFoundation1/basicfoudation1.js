@@ -192,17 +192,18 @@
 
 // Number to String - Write a function that takes an array of numbers and replaces any negative values within the array with the string 'Dojo'. For example if array = [-1,-3,2], your function will return ['Dojo','Dojo',2].
 
-// function string(arr){
+function string(arr){
  
-//     for(var x=0; x<arr.length; x++){
-//           if(arr[x]<0){
-//               arr[x]="Dojo";
-//           }
+    for (var x = 0; x < arr.length; x++){
+          if(arr[x] < 0){
+              arr[x]="Dojo";
+          }
          
-//       }
-//     return arr;
-//   }
+      }
+      console.log(arr);
+    return arr;
+  }
   
   
-//   string([-3,-4,7]);
-//   console.log(string([-3,-4,7]));
+  string([-3,-4,7]);
+  console.log(string([-3,-4,7]));
