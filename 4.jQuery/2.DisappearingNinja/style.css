@@ -1,0 +1,26 @@
+* {
+ margin: 0px;
+ padding: 0px;
+ outline: 1px solid red;
+}
+
+#wrapper {
+    margin: 0px  auto;
+    width: 1093px;
+}
+
+img {
+    width: 250px;
+    margin: 10px;
+}
+
+h1 {
+    padding: 15px 20px;
+}
+
+button {
+    background: green;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
